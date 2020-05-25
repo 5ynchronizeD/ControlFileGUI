@@ -12,6 +12,6 @@ canvas.pack() #Attach canvas to the root
 frame = tk.Frame(root, bg="white")
 frame.place(relheight= 0.8, relwidth = 0.8, relx=0.1, rely=0.1)
 
-
+#This is new
 
 root.mainloop()
